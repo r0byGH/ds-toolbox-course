@@ -1,0 +1,9 @@
+Git bash commands
+-----------------
+
+git config --global user.name "r0byGH"
+git config --global user.email "roberto.g.contri@gmail.com"
+git config --list
+
+-------
+index = index of files to be under version control
